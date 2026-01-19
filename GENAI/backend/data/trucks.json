@@ -1,0 +1,26 @@
+[
+  {
+    "truckType": "Mini Truck",
+    "maxWeight": 5,
+    "costPerKm": 20,
+    "supportedLoads": ["Box", "Food", "Package"]
+  },
+  {
+    "truckType": "14T Truck",
+    "maxWeight": 14,
+    "costPerKm": 35,
+    "supportedLoads": ["Box", "Goods", "Industrial", "Cargo"]
+  },
+  {
+    "truckType": "20T Truck",
+    "maxWeight": 20,
+    "costPerKm": 40,
+    "supportedLoads": ["Industrial", "Machinery", "Heavy Goods"]
+  },
+  {
+    "truckType": "Container Truck",
+    "maxWeight": 24,
+    "costPerKm": 45,
+    "supportedLoads": ["Industrial", "Machinery", "Export Cargo"]
+  }
+]

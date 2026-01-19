@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Driver Emergency Support</title>
+
+    <link rel="stylesheet" href="global.css">
+    <link rel="stylesheet" href="driver.css">
+</head>
+
+<body>
+
+    <div class="left"></div>
+
+    <div class="right">
+        <div class="emergency-container">
+
+            <h2>🚨 Driver Emergency Assistance</h2>
+            <p class="subtitle">
+                Instant AI guidance to handle driver emergencies safely and efficiently.
+            </p>
+
+            <!-- EMERGENCY CARD -->
+            <div class="emergency-card">
+
+                <div class="form-group">
+                    <label>Emergency Type</label>
+                    <select id="emergencyType">
+                        <option value="">Select emergency</option>
+                        <option value="Vehicle Breakdown">Vehicle Breakdown</option>
+                        <option value="Accident">Accident</option>
+                        <option value="Unexpected Delay">Unexpected Delay</option>
+                        <option value="Medical Emergency">Medical Emergency</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Current Location</label>
+                    <input id="location" placeholder="City / Highway / Landmark">
+                </div>
+
+                <!-- IMPORTANT: type=button → no refresh -->
+                <button type="button" onclick="reportEmergency()">
+                    Get Emergency Guidance
+                </button>
+
+            </div>
+
+            <!-- AI RESPONSE -->
+            <div class="ai-box" id="aiBox">
+                <h3>🤖 AI Emergency Response</h3>
+                <pre id="result">Enter details to receive guidance.</pre>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="menu.js"></script>
+    <script src="driver_emergency.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+{
+  "Vehicle Breakdown": {
+    "priority": "HIGH",
+    "actions": [
+      "Move vehicle to safe roadside",
+      "Turn on hazard lights",
+      "Contact nearest mechanic",
+      "Inform fleet manager"
+    ],
+    "support": {
+      "mechanic": "24x7 Roadside Assistance",
+      "contact": "+91-8888888888"
+    }
+  },
+
+  "Accident": {
+    "priority": "CRITICAL",
+    "actions": [
+      "Ensure driver safety",
+      "Call emergency services",
+      "Do not move vehicle unless instructed",
+      "Share live location"
+    ],
+    "support": {
+      "police": "100",
+      "ambulance": "108"
+    }
+  },
+
+  "Unexpected Delay": {
+    "priority": "MEDIUM",
+    "actions": [
+      "Inform customer",
+      "Update ETA",
+      "Check alternate route"
+    ],
+    "support": {
+      "control_room": "+91-7777777777"
+    }
+  }
+}

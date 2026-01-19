@@ -1,0 +1,6 @@
+{
+  "idleAdvice": "Some trucks are idle. Assign return loads to increase utilization.",
+  "runningAdvice": "Fleet is active. Monitor fuel efficiency and route planning.",
+  "maintenanceAdvice": "Schedule maintenance to avoid breakdowns.",
+  "highDemandCities": ["Pune", "Mumbai", "Delhi"]
+}

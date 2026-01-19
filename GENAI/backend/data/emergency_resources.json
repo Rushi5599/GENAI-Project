@@ -1,0 +1,17 @@
+{
+  "Vehicle Breakdown": {
+    "message": "Vehicle breakdown confirmed. Mechanic is being dispatched.",
+    "priority": "High",
+    "helpline": "1800-TRUCK-HELP"
+  },
+  "Accident": {
+    "message": "Accident reported. Emergency services are being alerted.",
+    "priority": "Critical",
+    "helpline": "112"
+  },
+  "Unexpected Delay": {
+    "message": "Delay reported. Control room has been notified.",
+    "priority": "Medium",
+    "helpline": "1800-DELAY-INFO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mechanics": [
+    {
+      "name": "Pune Roadside Mechanic",
+      "location": "Pune",
+      "contact": "+91-9999991111"
+    }
+  ],
+  "control_room": {
+    "contact": "+91-7777777777"
+  }
+}

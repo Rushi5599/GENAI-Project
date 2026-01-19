@@ -1,0 +1,19 @@
+{
+  "Pune-Mumbai": 150,
+  "Mumbai-Pune": 150,
+
+  "Pune-Nanded": 430,
+  "Nanded-Pune": 430,
+
+  "Pune-Nagpur": 720,
+  "Nagpur-Pune": 720,
+
+  "Mumbai-Nagpur": 830,
+  "Nagpur-Mumbai": 830,
+
+  "Pune-Hyderabad": 560,
+  "Hyderabad-Pune": 560,
+
+  "Mumbai-Bangalore": 980,
+  "Bangalore-Mumbai": 980
+}

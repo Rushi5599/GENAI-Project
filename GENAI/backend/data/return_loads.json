@@ -1,0 +1,17 @@
+[
+  {
+    "location": "Mumbai",
+    "loadType": "Box",
+    "destination": "Pune"
+  },
+  {
+    "location": "Pune",
+    "loadType": "Industrial",
+    "destination": "Nagpur"
+  },
+  {
+    "location": "Hyderabad",
+    "loadType": "Machinery",
+    "destination": "Bangalore"
+  }
+]

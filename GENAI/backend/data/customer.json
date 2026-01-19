@@ -1,0 +1,24 @@
+{
+  "drivers": [
+    {
+      "name": "Ramesh",
+      "location": "Pune",
+      "available": true
+    },
+    {
+      "name": "Suresh",
+      "location": "Mumbai",
+      "available": true
+    }
+  ],
+  "trucks": [
+    {
+      "type": "Mini Truck",
+      "supports": ["Medicine", "Food"]
+    },
+    {
+      "type": "Refrigerated Van",
+      "supports": ["Medicine", "Medical Equipment"]
+    }
+  ]
+}

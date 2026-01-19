@@ -1,0 +1,14 @@
+{
+  "Pune-Mumbai": {
+    "distance": 150,
+    "route": "NH48"
+  },
+  "Mumbai-Nashik": {
+    "distance": 180,
+    "route": "NH160"
+  },
+  "Delhi-Jaipur": {
+    "distance": 280,
+    "route": "NH48"
+  }
+}
